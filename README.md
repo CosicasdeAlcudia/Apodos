@@ -6,7 +6,7 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 
 Hijos:
   - [Paco "la Sanroquilla"](##Paco "la Sanroquilla")
-  - [Isabel "la Sanroquilla"](## Isabel "la Sanroquilla")
+  - [Isabel "la Sanroquilla"](##Isabel "la Sanroquilla")
 
 
 ## Paco "la Sanroquilla" (Francisco Cano)
@@ -37,5 +37,11 @@ Hijos:
 ## Maria Ruiz
 
 
+## Clemente "el Chicharro"
 
+
+  - Araceli Cano Morales
+  - 
+  - (##Clemente "el Chicharro")
+  - Araceli Cano Morales
 [Encabezados](#encabezados)

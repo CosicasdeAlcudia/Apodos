@@ -68,7 +68,7 @@ Hijos:
   - Manuel
   
 
-<a name="JoséMorales"></a> 
+<a name="JoseMorales"></a> 
 ## José Morales  
   Esposa: Isabel Guerrero "la tía Isabel"
   

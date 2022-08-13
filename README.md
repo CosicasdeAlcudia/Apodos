@@ -5,8 +5,8 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 ## *Tio Bernabé*
 
 Hijos:
-  - [Paco "la Sanroquilla"](#PacolaSanroquilla)
-  - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
+  - [Paco *la Sanroquilla*](#PacolaSanroquilla)
+  - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
 
 <a name="tatara"></a> 
@@ -19,7 +19,7 @@ Hijos:
 
 
 <a name="PacolaSanroquilla"></a> 
-## Paco "la Sanroquilla" (Francisco Cano)
+## Paco *la Sanroquilla* (Francisco Cano)
   Esposa: Adela Morales
   
   Padres: 
@@ -28,13 +28,13 @@ Hijos:
   Hijos:
   - Filomena Cano Morales 
   - Maria Cano Morales
-  - Clemente Cano Morales, [Clemente "el Chicharro"](#ClementeelChicharro)
+  - Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
   - Araceli Cano Morales
-  - Francisco Cano Morales [Paco "el Negro](#Pacoelnegro)
+  - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
   - Isabel Cano Morales
 
 <a name="IsabellaSanroquilla"></a> 
-## Isabel "la Sanroquilla"
+## Isabel *la Sanroquilla*
   Esposo: Pepe
   
   Padres:
@@ -50,7 +50,7 @@ Hijos:
   Esposa: Pepa sevillana
 
   Padres:
-  - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
+  - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
 <a name="ManuelCaboCano"></a> 
 ## Manuel *CaboCano*
@@ -59,7 +59,7 @@ Hijos:
   Esposa: Carmen de Antonio el francés de Tahal
   
     Padres:
-  - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
+  - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
   
   Hijos: 
   - Carmen
@@ -72,10 +72,10 @@ Hijos:
 
 <a name="MariaRuiz"></a> 
 ## Maria Ruiz
-  Esposo: [Frasquito "El sastre"](#Frasquitoelsastre)
+  Esposo: [Frasquito *El sastre*](#Frasquitoelsastre)
 
   Padres:
-  - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
+  - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
   Hijos:
   - Marisa
@@ -85,30 +85,30 @@ Hijos:
 
 <a name="JoseMorales"></a> 
 ## José Morales  
-  Esposa: Isabel Guerrero "la tía Isabel"
+  Esposa: Isabel Guerrero *la tía Isabel*
   
   Padres:
   - [Tatarabuelos](#tatara)
   
   Hijos:
   - Anica Morales
-  - [Juan "Carrete"](#JuanCarrete)
-  - [José "Catute"](#JoseCatute)
+  - [Juan *Carrete*](#JuanCarrete)
+  - [José *Catute*](#JoseCatute)
   - Carmen Morales
-  - [Ramón "Pisaverde"](#RamonPisaverde)
+  - [Ramón *Pisaverde*](#RamonPisaverde)
   
   
   <a name="JuanCarrete"></a> 
-## Juan "El carrete"  
-  Esposa: Encarna "la Perica"
+## Juan *El carrete*  
+  Esposa: Encarna *la Perica*
   
   Padres:
   - [Jose Morales](#JoseMorales)
   
   Hijos:
-  - Mercedes "la carreta"
-  - Encarna "la carreta"
-  - Isabel "la carreta"
+  - Mercedes *la carreta*
+  - Encarna *la carreta*
+  - Isabel *la carreta*
 
 
 <a name="FrasquitoMorales"></a>
@@ -129,7 +129,7 @@ Hijos:
 
 <a name="AdelaMorales"></a> 
 ## Adela Morales
-  Esposo: [Paco "la Sanroquilla"](#PacolaSanroquilla)
+  Esposo: [Paco *la Sanroquilla*](#PacolaSanroquilla)
   
   Padres:
   - [Tatarabuelos](#tatara)  
@@ -137,9 +137,9 @@ Hijos:
   Hijos:
   - Filomena Cano Morales 
   - Maria Cano Morales
-  - Clemente Cano Morales, [Clemente "el Chicharro"](#ClementeelChicharro)
+  - Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
   - Araceli Cano Morales
-  - Francisco Cano Morales [Paco "el Negro](#Pacoelnegro)
+  - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
   - Isabel Cano Morales
 
 
@@ -151,7 +151,7 @@ Hijos:
   
     Padres:
   - [Adela Morales](#AdelaMorales)
-  - [Paco "la Sanroquilla"](#PacolaSanroquilla)
+  - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   
  
   Hijos: 
@@ -161,12 +161,12 @@ Hijos:
 
 
 <a name="Pacoelnegro"></a> 
-## Paco Cano "El negro"
+## Paco Cano *El negro*
   Esposa: Patrocinio Soler Benavente
   
   Padres:
   - [Adela Morales](#AdelaMorales)
-  - [Paco "la Sanroquilla"](#PacolaSanroquilla)
+  - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   
   
   Hijos:

@@ -24,15 +24,19 @@ Hijos:
   Esposo: Pepe
   
   Hijos: 
-  - [Emilio *la Sanroquilla*](##Emilio *La Sanroquilla*)
-  - [Manuel *Cabocano*]
+  - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
+  - [Manuel *CaboCano*](#ManuelCaboCano)
   - [María Ruiz]
-  
+
+<a name="EmilioLaSanroquilla"></a> 
 ## Emilio *la Sanroquilla* 
   Esposa: Pepa sevillana
 
+
+<a name="ManuelCaboCano"></a> 
 ## Manuel *CaboCano*
   Esposa: Carmen de Antonio el francés de Tahal
+  Hijos: 
   
 ## Maria Ruiz
 
@@ -40,10 +44,8 @@ Hijos:
 
 <a name="ClementeelChicharro"></a> 
 ## Clemente "el Chicharro"
+  Esposa:
+  
+  Esposa: Rafaela 
+  Hijos
 
-
-  - Araceli Cano Morales
-  - 
-  - (##Clemente "el Chicharro")
-  - Araceli Cano Morales
-[Encabezados](#encabezados)

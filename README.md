@@ -15,7 +15,7 @@ Hijos:
   Hijos:
   - Filomena Cano Morales 
   - Maria Cano Morales
-  - Clemente Cano Morales, [Clemente "el Chicharro"](#Clemente el Chicharro)
+  - Clemente Cano Morales, [Clemente "el Chicharro"](#ClementeelChicharro)
   - Araceli Cano Morales
   - Francisco Cano Morales
 
@@ -40,7 +40,7 @@ Hijos:
 
 
 
-<a name="Clemente el Chicharro"></a> 
+<a name="ClementeelChicharro"></a> 
 ## Clemente "el Chicharro"
 
 

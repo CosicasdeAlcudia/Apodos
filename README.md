@@ -63,6 +63,9 @@ Hijos:
   Esposo: [Frasquito "El sastre"](#Frasquitoelsastre)
 
   Hijos:
+  - Marisa
+  - Emilio
+  - Manuel
   
 
 <a name="JoséMorales"></a> 

@@ -38,7 +38,7 @@ Hijos:
   Esposo: Pepe
   
   Padres:
-    - [Tio Bernabe](#tioBernabe)
+  - [Tio Bernabe](#tioBernabe)
   
   Hijos: 
   - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
@@ -58,7 +58,7 @@ Hijos:
   
   Esposa: Carmen de Antonio el francés de Tahal
   
-    Padres:
+  Padres:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
   
   Hijos: 

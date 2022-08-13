@@ -5,10 +5,10 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 ## *Tio Bernabé*
 
 Hijos:
-  - [Paco "la Sanroquilla"](##Paco "la Sanroquilla")
-  - [Isabel "la Sanroquilla"](##Isabel "la Sanroquilla")
+  - [Paco "la Sanroquilla"](#PacolaSanroquilla)
+  - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
 
-
+<a name="PacolaSanroquilla"></a> 
 ## Paco "la Sanroquilla" (Francisco Cano)
   Esposa: Adela Morales
   
@@ -19,9 +19,7 @@ Hijos:
   - Araceli Cano Morales
   - Francisco Cano Morales
 
-
-
-
+<a name="IsabellaSanroquilla"></a> 
 ## Isabel "la Sanroquilla"
   Esposo: Pepe
   

@@ -5,23 +5,22 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 ## *Tio Bernabé*
 
 Hijos:
-  - [Paco *la Sanroquilla*](## Paco *la Sanroquilla*)
   - [Paco "la Sanroquilla"](##Paco "la Sanroquilla")
-  - [Isabel *la Sanroquilla*](## Isabel *la Sanroquilla*)
+  - [Isabel "la Sanroquilla"](## Isabel "la Sanroquilla")
 
 
-## Paco *la Sanroquilla* (Francisco Cano)
+## Paco "la Sanroquilla" (Francisco Cano)
   Esposa: Adela Morales
   
   Hijos:
   - Filomena Cano Morales 
   - Maria Cano Morales
-  - Clemente Cano Morales, [Clememte *el Chicharro*] (##Clemente *el Chicharro*)
+  - Clemente Cano Morales, [Clememte *el Chicharro*] (##Clemente "el Chicharro")
   - Araceli Cano Morales
   - Francisco Cano Morales
 
 
-## Isabel *la Sanroquilla*
+## Isabel "la Sanroquilla"
   Esposo: Pepe
   
   Hijos: 

@@ -26,7 +26,7 @@ Hijos:
   Hijos: 
   - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
   - [Manuel *CaboCano*](#ManuelCaboCano)
-  - [María Ruiz]
+  - [María Ruiz](#MariaRuiz)
 
 <a name="EmilioLaSanroquilla"></a> 
 ## Emilio *la Sanroquilla* 
@@ -35,12 +35,24 @@ Hijos:
 
 <a name="ManuelCaboCano"></a> 
 ## Manuel *CaboCano*
-  Esposa: Carmen de Antonio el francés de Tahal
-  Hijos: 
+  Porque en las cuadrillas de soldados de *moros y cristianos* de Alcudia desempeño el cargo de cabo.
   
+  Esposa: Carmen de Antonio el francés de Tahal
+  
+  Hijos: 
+  - Carmen
+  - Manuel
+
+  Hermanos:
+  - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
+  - [María Ruiz](#MariaRuiz)
+
+
+<a name="MariaRuiz"></a> 
 ## Maria Ruiz
+  Esposo: [Franquito "El sastre"](#Frasquitoelsastre)
 
-
+  Hijos:
 
 <a name="ClementeelChicharro"></a> 
 ## Clemente "el Chicharro"

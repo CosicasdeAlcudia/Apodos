@@ -8,6 +8,16 @@ Hijos:
   - [Paco "la Sanroquilla"](#PacolaSanroquilla)
   - [Isabel "la Sanroquilla"](#IsabellaSanroquilla)
 
+
+<a name="tatara"></a> 
+## Tatarabuelos maternos
+  
+  Hijos:
+  - [Adela Morales](#AdelaMorales)
+  - [Jose Morales](#JoseMorales)
+
+
+
 <a name="PacolaSanroquilla"></a> 
 ## Paco "la Sanroquilla" (Francisco Cano)
   Esposa: Adela Morales
@@ -50,14 +60,26 @@ Hijos:
 
 <a name="MariaRuiz"></a> 
 ## Maria Ruiz
-  Esposo: [Franquito "El sastre"](#Frasquitoelsastre)
+  Esposo: [Frasquito "El sastre"](#Frasquitoelsastre)
 
   Hijos:
+
+## Adela Morales
+  Esposo: [Paco "la Sanroquilla"](#PacolaSanroquilla)
+  
+  Hijos:
+  - Filomena Cano Morales 
+  - Maria Cano Morales
+  - Clemente Cano Morales, [Clemente "el Chicharro"](#ClementeelChicharro)
+  - Araceli Cano Morales
+  - Francisco Cano Morales
+
 
 <a name="ClementeelChicharro"></a> 
 ## Clemente "el Chicharro"
   Esposa:
   
   Esposa: Rafaela 
-  Hijos
-
+  
+  Hijos: 
+  - Adela Cano Sánchez

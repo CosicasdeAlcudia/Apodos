@@ -20,7 +20,7 @@ Hijos:
   - Francisco Cano Morales
 
 
-<a name="abcd"></a> 
+
 
 ## Isabel "la Sanroquilla"
   Esposo: Pepe
@@ -40,8 +40,8 @@ Hijos:
 
 
 
-<a name="Clemente "el Chicharro""></a> 
-## Clemente "el Chicharro"
+<a name="## Clemente "el Chicharro"></a> 
+
 
 
   - Araceli Cano Morales

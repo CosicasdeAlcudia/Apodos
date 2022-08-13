@@ -123,3 +123,16 @@ Hijos:
   - Adela Cano Sánchez
 
 
+
+
+<a name="Pacoelnegro"></a> 
+## Clemente "el Chicharro"
+  Esposa: Patrocinio Soler Benavente
+  
+  Hijos:
+  - Francisco
+  - Dolores
+  - Manuel Buenaventura
+  
+  
+  

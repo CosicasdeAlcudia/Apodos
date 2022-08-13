@@ -15,8 +15,7 @@ Hijos:
   Hijos:
   - [Adela Morales](#AdelaMorales)
   - [Jose Morales](#JoseMorales)
-  - [Francisco Morales](#FranciscoMorales)
-
+  - [Frasquito Morales](#FrasquitoMorales)
 
 
 <a name="PacolaSanroquilla"></a> 
@@ -86,7 +85,20 @@ Hijos:
   - Mercedes "la carreta"
   - Encarna "la carreta"
   - Isabel "la carreta"
+
+
+<a name="FrasquitoMorales"></a>
+## Frasquito Morales
+  Esposa: Isabel
   
+  Hijos
+  - Encarnación: Juan, Frasquito, Daniel y Clemente
+  - Juan 
+  - Clemente   (CARMEN) (
+  - Araceli
+  - Frasquito Morales
+
+
 
 <a name="AdelaMorales"></a> 
 ## Adela Morales

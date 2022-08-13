@@ -15,6 +15,7 @@ Hijos:
   Hijos:
   - [Adela Morales](#AdelaMorales)
   - [Jose Morales](#JoseMorales)
+  - [Francisco Morales](#FranciscoMorales)
 
 
 
@@ -63,7 +64,31 @@ Hijos:
   Esposo: [Frasquito "El sastre"](#Frasquitoelsastre)
 
   Hijos:
+  
 
+<a name="JoséMorales"></a> 
+## José Morales  
+  Esposa: Isabel Guerrero "la tía Isabel"
+  
+  Hijos:
+  - Anica Morales
+  - [Juan "Carrete"](#JuanCarrete)
+  - [José "Catute"](#JoseCatute)
+  - Carmen Morales
+  - [Ramón "Pisaverde"](#RamonPisaverde)
+  
+  
+  <a name="JuanCarrete"></a> 
+## Juan "El carrete"  
+  Esposa: Encarna "la Perica"
+  
+  Hijos:
+  - Mercedes "la carreta"
+  - Encarna "la carreta"
+  - Isabel "la carreta"
+  
+
+<a name="AdelaMorales"></a> 
 ## Adela Morales
   Esposo: [Paco "la Sanroquilla"](#PacolaSanroquilla)
   
@@ -79,7 +104,7 @@ Hijos:
 ## Clemente "el Chicharro"
   Esposa:
   
-  Esposa: Rafaela 
+  Esposa: Rafaela González Luque
   
   Hijos: 
   - Adela Cano Sánchez

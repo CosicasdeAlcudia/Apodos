@@ -5,8 +5,8 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 ## *Tio Bernabé*
 
 Hijos:
-  - [Paco *la Sanroquilla*](##Paco *la Sanroquilla*)
-  - [Isabel *la Sanroquilla*](##Isabel *la Sanroquilla*)
+  - [Paco *la Sanroquilla*](## Paco *la Sanroquilla*)
+  - [Isabel *la Sanroquilla*](## Isabel *la Sanroquilla*)
 
 
 ## Paco *la Sanroquilla* (Francisco Cano)

@@ -65,11 +65,6 @@ Hijos:
   - Carmen
   - Manuel
 
-  Hermanos:
-  - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
-  - [María Ruiz](#MariaRuiz)
-
-
 <a name="MariaRuiz"></a> 
 ## Maria Ruiz
   Esposo: [Frasquito *El sastre*](#Frasquitoelsastre)

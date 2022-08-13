@@ -1,5 +1,5 @@
 # Apodos
-Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de la ampliación y trascripción de José Antonio López Montoro podemos completar parte de nuestro árbol genealógico ligado a los apodos.
+Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de la ampliación y trascripción de **José Antonio López Montoro** podemos completar parte de nuestro árbol genealógico ligado a los apodos.
 
 
 ## *Tio Bernabé*

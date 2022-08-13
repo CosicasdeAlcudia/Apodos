@@ -109,7 +109,8 @@ Hijos:
   - Maria Cano Morales
   - Clemente Cano Morales, [Clemente "el Chicharro"](#ClementeelChicharro)
   - Araceli Cano Morales
-  - Francisco Cano Morales
+  - Francisco Cano Morales [Paco "el Negro](#Pacoelnegro)
+  - Isabel Cano Morales
 
 
 <a name="ClementeelChicharro"></a> 
@@ -120,3 +121,5 @@ Hijos:
   
   Hijos: 
   - Adela Cano Sánchez
+
+

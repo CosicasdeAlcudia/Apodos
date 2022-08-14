@@ -1,25 +1,46 @@
 # Apodos
 Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de la ampliación y trascripción de **José Antonio López Montoro** podemos completar parte de nuestro árbol genealógico ligado a los apodos.
 
-## *Tio Bernabé* <a name="tioBernabe"></a> 
+# Indice de alcuzarros 
 
-Hijos:
+
+- [*Tio Bernabé*](#tioBernabe) 
+- [* Mis tatarabuelos maternos*](#tatara)
+- [Paco *la Sanroquilla*](#PacolaSanroquilla)
+- [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
+- 
+
+
+## *Tio Bernabé* <a name="tioBernabe"></a> 
+  Pareja:
+
+  Padres:
+
+  Hijos:
   - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
+
+Hermanos:
 ---
 
-<a name="tatara"></a> 
-## Tatarabuelos maternos
+ 
+## Tatarabuelos maternos <a name="tatara"></a>
+  Pareja:
+  
+  Padres:
+  
   
   Hijos:
   - [Adela Morales](#AdelaMorales)
   - [Jose Morales](#JoseMorales)
   - [Frasquito Morales](#FrasquitoMorales)
 
+  Hermanos:
+  
 ---
-<a name="PacolaSanroquilla"></a> 
-## Paco *la Sanroquilla* (Francisco Cano)
+
+## Paco *la Sanroquilla* (Francisco Cano) <a name="PacolaSanroquilla"></a> 
   Esposa: Adela Morales
   
   Padres: 
@@ -37,9 +58,9 @@ Hijos:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
  
 ---
-<a name="IsabellaSanroquilla"></a> 
-## Isabel *la Sanroquilla*
-  Esposo: Pepe
+
+## Isabel *la Sanroquilla* <a name="IsabellaSanroquilla"></a> 
+  Pareja: Pepe
   
   Padres:
   - [Tio Bernabe](#tioBernabe)
@@ -49,6 +70,8 @@ Hijos:
   - [Manuel *CaboCano*](#ManuelCaboCano)
   - [María Ruiz](#MariaRuiz)
 
+  Hermanos:
+  - [Paco *la Sanroquilla*](#PacolaSanroquilla)
 
 ---
 <a name="EmilioLaSanroquilla"></a> 
@@ -112,8 +135,8 @@ Hijos:
   - Isabel *la carreta*
 
 
-<a name="FrasquitoMorales"></a>
-## Frasquito Morales
+
+## Frasquito Morales  <a name="FrasquitoMorales"></a>
   Esposa: Isabel
 
   Padres:

@@ -119,6 +119,7 @@ Hermanos:
   - [Juan *Carrete*](#JuanCarrete)
   - [José *Catute*](#JoseCatute)
   - Carmen Morales
+  - Gertrudis Morales
   - [Ramón *Pisaverde*](#RamonPisaverde)
   
   

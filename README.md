@@ -8,6 +8,7 @@ Hijos:
   - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
+---
 
 <a name="tatara"></a> 
 ## Tatarabuelos maternos
@@ -17,7 +18,7 @@ Hijos:
   - [Jose Morales](#JoseMorales)
   - [Frasquito Morales](#FrasquitoMorales)
 
-
+---
 <a name="PacolaSanroquilla"></a> 
 ## Paco *la Sanroquilla* (Francisco Cano)
   Esposa: Adela Morales
@@ -32,7 +33,11 @@ Hijos:
   - Araceli Cano Morales
   - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
   - Isabel Cano Morales
-
+  
+  Hermanos:
+  - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
+ 
+---
 <a name="IsabellaSanroquilla"></a> 
 ## Isabel *la Sanroquilla*
   Esposo: Pepe
@@ -45,6 +50,8 @@ Hijos:
   - [Manuel *CaboCano*](#ManuelCaboCano)
   - [María Ruiz](#MariaRuiz)
 
+
+---
 <a name="EmilioLaSanroquilla"></a> 
 ## Emilio *la Sanroquilla* 
   Esposa: Pepa sevillana
@@ -144,7 +151,7 @@ Hijos:
   
   Esposa: Rafaela González Luque
   
-    Padres:
+  Padres:
   - [Adela Morales](#AdelaMorales)
   - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   

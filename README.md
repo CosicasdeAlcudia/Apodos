@@ -172,7 +172,7 @@ Hermanos:
   - [Gertrudis Morales](#GertrudisMorales)
   - [Ramón *Pisaverde*](#RamonPisaverde)
 
-
+---
 ## Frasquito Morales  <a name="FrasquitoMorales"></a>
   Esposa: Isabel
 
@@ -203,9 +203,9 @@ Hermanos:
   - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
   - [Isabel Cano Morales](#IsabelCano)
 
+---
 
-<a name="ClementeelChicharro"></a> 
-## Clemente "el Chicharro"
+## Clemente "el Chicharro"<a name="ClementeelChicharro"></a> 
   Esposa:
   
   Esposa: Rafaela González Luque
@@ -224,9 +224,9 @@ Hermanos:
   - [Araceli Cano Morales](#AraceliCano)
   - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
   - [Isabel Cano Morales](#IsabelCano)
+
+
 ---
-
-
 ## Paco Cano *El negro* <a name="Pacoelnegro"></a> 
   Pareja: Patrocinio Soler Benavente
   

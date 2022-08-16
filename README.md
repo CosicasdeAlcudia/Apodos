@@ -8,7 +8,25 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 - [* Mis tatarabuelos maternos*](#tatara)
 - [Paco *la Sanroquilla*](#PacolaSanroquilla)
 - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
-- 
+- [Adela Morales](#AdelaMorales)
+- [Jose Morales](#JoseMorales)
+- [Frasquito Morales](#FrasquitoMorales)
+- [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
+- [Manuel *CaboCano*](#ManuelCaboCano)
+- [María Ruiz](#MariaRuiz)
+- [Filomena Cano Morales](#FilomenaCano)
+- [Maria Cano Morales](#MariaCano)
+- Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
+- [Araceli Cano Morales](#AraceliCano)
+- Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
+- [Isabel Cano Morales](#IsabelCano)
+- [Anica Morales](#AnicaMorales)
+- [Juan *Carrete*](#JuanCarrete)
+- [José *Catute*](#JoseCatute)
+- [Carmen Morales](#CarmenMorales)
+- [Gertrudis Morales](#GertrudisMorales)
+- [Ramón *Pisaverde*](#RamonPisaverde)
+
 
 
 ## *Tio Bernabé* <a name="tioBernabe"></a> 
@@ -20,16 +38,13 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
   - [Paco *la Sanroquilla*](#PacolaSanroquilla)
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
-
 Hermanos:
 ---
 
- 
 ## Tatarabuelos maternos <a name="tatara"></a>
   Pareja:
   
-  Padres:
-  
+  Padres: 
   
   Hijos:
   - [Adela Morales](#AdelaMorales)
@@ -47,12 +62,12 @@ Hermanos:
   - [Tio Bernabe](#tioBernabe)
   
   Hijos:
-  - Filomena Cano Morales 
-  - Maria Cano Morales
+  - [Filomena Cano Morales](#FilomenaCano)
+  - [Maria Cano Morales](#MariaCano)
   - Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
-  - Araceli Cano Morales
+  - [Araceli Cano Morales](#AraceliCano)
   - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
-  - Isabel Cano Morales
+  - [Isabel Cano Morales](#IsabelCano)
   
   Hermanos:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
@@ -74,15 +89,20 @@ Hermanos:
   - [Paco *la Sanroquilla*](#PacolaSanroquilla)
 
 ---
-<a name="EmilioLaSanroquilla"></a> 
-## Emilio *la Sanroquilla* 
+
+## Emilio *la Sanroquilla* <a name="EmilioLaSanroquilla"></a> 
   Esposa: Pepa sevillana
 
   Padres:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 
-<a name="ManuelCaboCano"></a> 
-## Manuel *CaboCano*
+  Hermanos:
+  - [Manuel *CaboCano*](#ManuelCaboCano)
+  - [María Ruiz](#MariaRuiz)
+  
+---
+
+## Manuel *CaboCano*<a name="ManuelCaboCano"></a> 
   Porque en las cuadrillas de soldados de *moros y cristianos* de Alcudia desempeño el cargo de cabo.
   
   Esposa: Carmen de Antonio el francés de Tahal
@@ -93,9 +113,14 @@ Hermanos:
   Hijos: 
   - Carmen
   - Manuel
+  
+  Hermanos:
+  - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
+  - [María Ruiz](#MariaRuiz)
 
-<a name="MariaRuiz"></a> 
-## Maria Ruiz
+---
+
+## Maria Ruiz <a name="MariaRuiz"></a> 
   Esposo: [Frasquito *El sastre*](#Frasquitoelsastre)
 
   Padres:
@@ -106,20 +131,25 @@ Hermanos:
   - Emilio
   - Manuel
   
+  Hermanos:
+  - [Emilio *la Sanroquilla*](#EmilioLaSanroquilla)
+  - [Manuel *CaboCano*](#ManuelCaboCano)
 
-<a name="JoseMorales"></a> 
-## José Morales  
+
+---
+
+## José Morales  <a name="JoseMorales"></a> 
   Esposa: Isabel Guerrero *la tía Isabel*
   
   Padres:
   - [Tatarabuelos](#tatara)
   
   Hijos:
-  - Anica Morales
+  - [Anica Morales](#AnicaMorales)
   - [Juan *Carrete*](#JuanCarrete)
   - [José *Catute*](#JoseCatute)
-  - Carmen Morales
-  - Gertrudis Morales
+  - [Carmen Morales](#CarmenMorales)
+  - [Gertrudis Morales](#GertrudisMorales)
   - [Ramón *Pisaverde*](#RamonPisaverde)
   
   

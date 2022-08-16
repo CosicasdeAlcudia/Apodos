@@ -91,7 +91,7 @@ Hermanos:
 ---
 
 ## Emilio *la Sanroquilla* <a name="EmilioLaSanroquilla"></a> 
-  Esposa: Pepa sevillana
+  Pareja: Pepa sevillana
 
   Padres:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
@@ -121,7 +121,7 @@ Hermanos:
 ---
 
 ## Maria Ruiz <a name="MariaRuiz"></a> 
-  Esposo: [Frasquito *El sastre*](#Frasquitoelsastre)
+  Pareja: [Frasquito *El sastre*](#Frasquitoelsastre)
 
   Padres:
   - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
@@ -152,9 +152,9 @@ Hermanos:
   - [Gertrudis Morales](#GertrudisMorales)
   - [Ramón *Pisaverde*](#RamonPisaverde)
   
-  
-  <a name="JuanCarrete"></a> 
-## Juan *El carrete*  
+ --- 
+
+## Juan *El carrete*    <a name="JuanCarrete"></a> 
   Esposa: Encarna *la Perica*
   
   Padres:
@@ -165,6 +165,12 @@ Hermanos:
   - Encarna *la carreta*
   - Isabel *la carreta*
 
+  Hermanos:
+  - [Anica Morales](#AnicaMorales)
+  - [José *Catute*](#JoseCatute)
+  - [Carmen Morales](#CarmenMorales)
+  - [Gertrudis Morales](#GertrudisMorales)
+  - [Ramón *Pisaverde*](#RamonPisaverde)
 
 
 ## Frasquito Morales  <a name="FrasquitoMorales"></a>
@@ -173,7 +179,7 @@ Hermanos:
   Padres:
   - [Tatarabuelos](#tatara)
 
-  Hijos
+  Hijos:
   - Encarnación: Juan, Frasquito, Daniel y Clemente
   - Juan 
   - Clemente   (CARMEN) (
@@ -181,21 +187,21 @@ Hermanos:
   - Frasquito Morales
 
 
+---
 
-<a name="AdelaMorales"></a> 
-## Adela Morales
-  Esposo: [Paco *la Sanroquilla*](#PacolaSanroquilla)
+## Adela Morales <a name="AdelaMorales"></a> 
+  Pareja: [Paco *la Sanroquilla*](#PacolaSanroquilla)
   
   Padres:
   - [Tatarabuelos](#tatara)  
   
   Hijos:
-  - Filomena Cano Morales 
-  - Maria Cano Morales
+  - [Filomena Cano Morales](#FilomenaCano)
+  - [Maria Cano Morales](#MariaCano)
   - Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
-  - Araceli Cano Morales
+  - [Araceli Cano Morales](#AraceliCano)
   - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
-  - Isabel Cano Morales
+  - [Isabel Cano Morales](#IsabelCano)
 
 
 <a name="ClementeelChicharro"></a> 
@@ -212,12 +218,17 @@ Hermanos:
   Hijos: 
   - Adela Cano Sánchez
 
+  Hermanos:
+  - [Filomena Cano Morales](#FilomenaCano)
+  - [Maria Cano Morales](#MariaCano)
+  - [Araceli Cano Morales](#AraceliCano)
+  - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
+  - [Isabel Cano Morales](#IsabelCano)
+---
 
 
-
-<a name="Pacoelnegro"></a> 
-## Paco Cano *El negro*
-  Esposa: Patrocinio Soler Benavente
+## Paco Cano *El negro* <a name="Pacoelnegro"></a> 
+  Pareja: Patrocinio Soler Benavente
   
   Padres:
   - [Adela Morales](#AdelaMorales)
@@ -229,5 +240,11 @@ Hermanos:
   - Dolores
   - Manuel Buenaventura
   
-  
+  Hermanos:
+  - [Filomena Cano Morales](#FilomenaCano)
+  - [Maria Cano Morales](#MariaCano)
+  - Clemente Cano Morales, [Clemente *el Chicharro*](#ClementeelChicharro)
+  - [Araceli Cano Morales](#AraceliCano)
+  - Francisco Cano Morales [Paco *el Negro*](#Pacoelnegro)
+  - [Isabel Cano Morales](#IsabelCano) 
   

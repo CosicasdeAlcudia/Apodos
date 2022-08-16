@@ -173,21 +173,60 @@ Hermanos:
   - [Ramón *Pisaverde*](#RamonPisaverde)
 
 ---
-## Frasquito Morales  <a name="FrasquitoMorales"></a>
+## Frasquito Morales *tío Frasquito*  <a name="FrasquitoMorales"></a>
   Esposa: Isabel
 
   Padres:
   - [Tatarabuelos](#tatara)
 
   Hijos:
-  - Encarnación: Juan, Frasquito, Daniel y Clemente
-  - Juan 
-  - Clemente   (CARMEN) (
-  - Araceli
-  - Frasquito Morales
+  - [Encarnación Morales](#EncarnacionMorales)
+  - [Juan *Tabernero*](#JuanTabernero)
+  - [Clemente  Morales](#ClementeMorales)
+  - [Araceli Morales](#AraceliMorales)
+  - [Frasquito Morales](#FrasquitoMorales)
 
+  Hermanos:
+  - [Adela Morales](#AdelaMorales)
+  - [Jose Morales](#JoseMorales)
+
+
+----
+
+## Encarnación Morales <a name="EncarnacionMorales"></a>
+Pareja: Daniel Morales
+
+Hijos:
+- Juan
+- Frasquito
+- Daniel
+- Clemente
+
+Hermanos:
+- [Juan Morales](#JuanMorales)
+- [Clemente  Morales](#ClementeMorales)
+- [Araceli Morales](#AraceliMorales)
+- [Frasquito Morales](#FrasquitoMorales)
 
 ---
+## Juan *Tabernero* <a name="JuanTabernero"></a>
+Pareja: [Carmen *Zurda*](#CarmenZurda)
+
+Hijos:
+- Frasquito *El tabernero*
+- [Carmen *Zurda*](#CarmenZurda2)
+
+Hermanos: 
+- [Encarnación Morales](#EncarnacionMorales)
+- [Clemente  Morales](#ClementeMorales)
+- [Araceli Morales](#AraceliMorales)
+- [Frasquito Morales](#FrasquitoMorales)
+
+---
+
+
+
+
 
 ## Adela Morales <a name="AdelaMorales"></a> 
   Pareja: [Paco *la Sanroquilla*](#PacolaSanroquilla)

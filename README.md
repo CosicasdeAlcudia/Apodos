@@ -4,7 +4,7 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 # Indice de alcuzarros 
 
 
-- [*Tio Bernabé*](#tioBernabe) 
+- [*Tio Bernabé*](#tioBernabe) <a name="tioBernabeind"></a> 
 - [* Mis tatarabuelos maternos*](#tatara)
 - [Paco *la Sanroquilla*](#PacolaSanroquilla)
 - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
@@ -29,7 +29,7 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 
 
 
-## *Tio Bernabé* <a name="tioBernabe"></a> 
+## *Tio Bernabé* <a name="tioBernabe"></a> [lista](#tioBernabeind)
   Pareja:
 
   Padres:

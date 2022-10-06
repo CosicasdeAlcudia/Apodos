@@ -5,8 +5,8 @@ Gracias al trabajo acumulado de Ramón **El veneno** y sus asesores así como de
 
 
 - [*Tio Bernabé*](#tioBernabe) <a name="tioBernabeind"></a> 
-- [* Mis tatarabuelos maternos*](#tatara)
-- [Paco *la Sanroquilla*](#PacolaSanroquilla)
+- [* Mis tatarabuelos maternos*](#tatara) <a name="tataraind"></a> 
+- [Paco *la Sanroquilla*](#PacolaSanroquilla) <a name="PacolaSanroquillaind"></a> 
 - [Isabel *la Sanroquilla*](#IsabellaSanroquilla)
 - [Adela Morales](#AdelaMorales)
 - [Jose Morales](#JoseMorales)
